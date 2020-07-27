@@ -1,7 +1,7 @@
-import React from './node_modules/react';
-import Input from './node_modules/@material-ui/core/Input';
-import Button from './node_modules/@material-ui/core/Button';
-import { makeStyles } from './node_modules/@material-ui/core/styles';
+import React from 'react';
+import Input from '@material-ui/core/Input';
+import Button from '@material-ui/core/Button';
+import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
   container: {
